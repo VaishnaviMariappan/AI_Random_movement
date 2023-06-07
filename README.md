@@ -109,7 +109,7 @@ playable area
 ![image](https://github.com/Aashima02/AI-Random-Movement/assets/93427086/d8c5ae12-24e8-46c8-ae52-8d369e05f38d)
 
 ### In Play Mode:
-![image](https://github.com/Aashima02/AI-Random-Movement/assets/93427086/eb54159c-074e-4c0b-b987-164275fdea43)
+![image](https://github.com/VaishnaviMariappan/AI_Random_movement/assets/94169913/0c64a038-eb6e-4048-85f0-3a20fca42d38)
 
 ## RESULT:
 
